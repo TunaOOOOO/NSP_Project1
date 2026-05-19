@@ -1,0 +1,22 @@
+{
+    "44d88612fea8a8f36de82e1278abb02f": {
+        "name": "EICAR-Standard-Antivirus-Test-File",
+        "type": "Mock Virus",
+        "threat_level": "Low"
+    },
+    "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f": {
+        "name": "EICAR-Test-File-SHA256",
+        "type": "Mock Virus",
+        "threat_level": "Low"
+    },
+    "a78f2498fa00b45c9e70e9a197973a00": {
+        "name": "Mock-Ransomware.Sentinel",
+        "type": "Ransomware",
+        "threat_level": "Critical"
+    },
+    "d41d8cd98f00b204e9800998ecf8427e": {
+        "name": "Suspicious-Empty-File",
+        "type": "Anomaly",
+        "threat_level": "Info"
+    }
+}

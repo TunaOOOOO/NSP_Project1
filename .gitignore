@@ -1,0 +1,11 @@
+*.log
+scan_report.log
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+venv/
+env/
+.env
+.DS_Store
+Thumbs.db
